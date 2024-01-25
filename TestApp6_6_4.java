@@ -1,5 +1,5 @@
 package tests;
-
+//Github
 import static io.appium.java_client.touch.WaitOptions.waitOptions;
 import static java.time.Duration.ofSeconds;
 
